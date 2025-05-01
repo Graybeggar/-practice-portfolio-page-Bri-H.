@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;  /* font for the whole page */
+    background-color: #000; /* black background for the whole page */
+    text-align: center;  /* center the text whole page */
+    color: rgb(193, 22, 22);  /* red text color */
+    padding: 15px 20px;
+}
+footer form input[type="submit"]:hover {
+    background-color: #45a049;  /* green when hovering over submit button */
+}
+footer form textarea {
+    width: 400px;  /* set the width to 400px */
+    border-radius: 10px;
+}
+a {
+    color: #ec4bc4;  /* pink link */
+    text-decoration: none;  /* remove the underline from the link */
+}
+
+/* style for links when hovered over */
+a:hover {
+    color: #ff0000;  /* red on hover */
+    text-decoration: underline;  /* add underline on hover */
+}
