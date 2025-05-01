@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;  /* font for the whole page */
     background-color: #000; /* black background for the whole page */
     text-align: center;  /* center the text whole page */
-    color: rgb(193, 22, 22);  /* red text color */
+    color: rgb(247, 156, 54);  /* orange text color */
     padding: 15px 20px;
 }
 footer form input[type="submit"]:hover {
@@ -13,7 +13,7 @@ footer form textarea {
     border-radius: 10px;
 }
 a {
-    color: #ec4bc4;  /* pink link */
+    color: #ffffff;  /* white link */
     text-decoration: none;  /* remove the underline from the link */
 }
 
